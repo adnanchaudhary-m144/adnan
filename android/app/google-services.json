@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "303092581158",
+    "project_id": "testingslogin",
+    "storage_bucket": "testingslogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303092581158:android:a8b1f57affabeafbb0b7e7",
+        "android_client_info": {
+          "package_name": "com.ticketbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLCUwMAiZ7_DJp9w6iDksuPwp0laTUZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
